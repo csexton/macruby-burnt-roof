@@ -1,0 +1,10 @@
+MacRuby: Cocoa so hot it will burn the roof of your mouth
+
+This is the source for the presentation given at [Arlington Ruby Meetup](http://arlingtonruby.org) Nov 30th 2011.
+
+The slides are in showoff format, and can be viewed by installing the `showff` gem and running the following:
+
+    cd slides
+    showoff serve
+
+Once the server is running visit http://localhost:9090
