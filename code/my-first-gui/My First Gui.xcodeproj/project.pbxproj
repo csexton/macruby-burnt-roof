@@ -1,0 +1,336 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B522427A14831C3E00A34EA1 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B522427914831C3E00A34EA1 /* Cocoa.framework */; };
+		B522427C14831C3E00A34EA1 /* MacRuby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B522427B14831C3E00A34EA1 /* MacRuby.framework */; };
+		B522428314831C3E00A34EA1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B522428114831C3E00A34EA1 /* InfoPlist.strings */; };
+		B522428514831C3E00A34EA1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B522428414831C3E00A34EA1 /* main.m */; };
+		B522428A14831C3E00A34EA1 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = B522428814831C3E00A34EA1 /* MainMenu.xib */; };
+		B522428D14831C3E00A34EA1 /* rb_main.rb in Resources */ = {isa = PBXBuildFile; fileRef = B522428C14831C3E00A34EA1 /* rb_main.rb */; };
+		B522428F14831C3E00A34EA1 /* AppDelegate.rb in Resources */ = {isa = PBXBuildFile; fileRef = B522428E14831C3E00A34EA1 /* AppDelegate.rb */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B522427514831C3E00A34EA1 /* My First Gui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My First Gui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B522427914831C3E00A34EA1 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		B522427B14831C3E00A34EA1 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = Library/Frameworks/MacRuby.framework; sourceTree = DEVELOPER_DIR; };
+		B522428014831C3E00A34EA1 /* My First Gui-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "My First Gui-Info.plist"; sourceTree = "<group>"; };
+		B522428214831C3E00A34EA1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B522428414831C3E00A34EA1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B522428614831C3E00A34EA1 /* My First Gui-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "My First Gui-Prefix.pch"; sourceTree = "<group>"; };
+		B522428914831C3E00A34EA1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		B522428C14831C3E00A34EA1 /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
+		B522428E14831C3E00A34EA1 /* AppDelegate.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = AppDelegate.rb; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B522427214831C3E00A34EA1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B522427A14831C3E00A34EA1 /* Cocoa.framework in Frameworks */,
+				B522427C14831C3E00A34EA1 /* MacRuby.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B522426A14831C3D00A34EA1 = {
+			isa = PBXGroup;
+			children = (
+				B522427E14831C3E00A34EA1 /* My First Gui */,
+				B522427814831C3E00A34EA1 /* Frameworks */,
+				B522427614831C3E00A34EA1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B522427614831C3E00A34EA1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B522427514831C3E00A34EA1 /* My First Gui.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B522427814831C3E00A34EA1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B522427914831C3E00A34EA1 /* Cocoa.framework */,
+				B522427B14831C3E00A34EA1 /* MacRuby.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B522427E14831C3E00A34EA1 /* My First Gui */ = {
+			isa = PBXGroup;
+			children = (
+				B522428E14831C3E00A34EA1 /* AppDelegate.rb */,
+				B522428714831C3E00A34EA1 /* Resources */,
+				B522428B14831C3E00A34EA1 /* Other Sources */,
+				B522427F14831C3E00A34EA1 /* Supporting Files */,
+			);
+			path = "My First Gui";
+			sourceTree = "<group>";
+		};
+		B522427F14831C3E00A34EA1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B522428014831C3E00A34EA1 /* My First Gui-Info.plist */,
+				B522428114831C3E00A34EA1 /* InfoPlist.strings */,
+				B522428414831C3E00A34EA1 /* main.m */,
+				B522428614831C3E00A34EA1 /* My First Gui-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B522428714831C3E00A34EA1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B522428814831C3E00A34EA1 /* MainMenu.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		B522428B14831C3E00A34EA1 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				B522428C14831C3E00A34EA1 /* rb_main.rb */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		B522427D14831C3E00A34EA1 /* Deployment */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "--compile --embed";
+			buildConfigurationList = B522429514831C3E00A34EA1 /* Build configuration list for PBXLegacyTarget "Deployment" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/local/bin/macruby_deploy;
+			dependencies = (
+			);
+			name = Deployment;
+			passBuildSettingsInEnvironment = 1;
+			productName = Deployment;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXNativeTarget section */
+		B522427414831C3E00A34EA1 /* My First Gui */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B522429214831C3E00A34EA1 /* Build configuration list for PBXNativeTarget "My First Gui" */;
+			buildPhases = (
+				B522427114831C3E00A34EA1 /* Sources */,
+				B522427214831C3E00A34EA1 /* Frameworks */,
+				B522427314831C3E00A34EA1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "My First Gui";
+			productName = "My First Gui";
+			productReference = B522427514831C3E00A34EA1 /* My First Gui.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B522426C14831C3D00A34EA1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = B522426F14831C3D00A34EA1 /* Build configuration list for PBXProject "My First Gui" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B522426A14831C3D00A34EA1;
+			productRefGroup = B522427614831C3E00A34EA1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B522427414831C3E00A34EA1 /* My First Gui */,
+				B522427D14831C3E00A34EA1 /* Deployment */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B522427314831C3E00A34EA1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B522428314831C3E00A34EA1 /* InfoPlist.strings in Resources */,
+				B522428A14831C3E00A34EA1 /* MainMenu.xib in Resources */,
+				B522428D14831C3E00A34EA1 /* rb_main.rb in Resources */,
+				B522428F14831C3E00A34EA1 /* AppDelegate.rb in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B522427114831C3E00A34EA1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B522428514831C3E00A34EA1 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B522428114831C3E00A34EA1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B522428214831C3E00A34EA1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B522428814831C3E00A34EA1 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B522428914831C3E00A34EA1 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B522429014831C3E00A34EA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		B522429114831C3E00A34EA1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		B522429314831C3E00A34EA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_FRAMEWORKS_DIR)\"",
+				);
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "My First Gui/My First Gui-Prefix.pch";
+				INFOPLIST_FILE = "My First Gui/My First Gui-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		B522429414831C3E00A34EA1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_FRAMEWORKS_DIR)\"",
+				);
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "My First Gui/My First Gui-Prefix.pch";
+				INFOPLIST_FILE = "My First Gui/My First Gui-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		B522429614831C3E00A34EA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B522429714831C3E00A34EA1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B522426F14831C3D00A34EA1 /* Build configuration list for PBXProject "My First Gui" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B522429014831C3E00A34EA1 /* Debug */,
+				B522429114831C3E00A34EA1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B522429214831C3E00A34EA1 /* Build configuration list for PBXNativeTarget "My First Gui" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B522429314831C3E00A34EA1 /* Debug */,
+				B522429414831C3E00A34EA1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B522429514831C3E00A34EA1 /* Build configuration list for PBXLegacyTarget "Deployment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B522429614831C3E00A34EA1 /* Debug */,
+				B522429714831C3E00A34EA1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B522426C14831C3D00A34EA1 /* Project object */;
+}

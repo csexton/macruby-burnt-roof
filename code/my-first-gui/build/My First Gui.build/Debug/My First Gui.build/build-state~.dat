@@ -1,0 +1,207 @@
+TMy First Gui
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Info.plist" "My First Gui/My First Gui-Info.plist"
+cProcessPCH "/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch.pth" "My First Gui/My First Gui-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/main.o" "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/MacOS/My First Gui" normal x86_64
+cCopyStringsFile "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/en.lproj/InfoPlist.strings" "My First Gui/en.lproj/InfoPlist.strings"
+cCompileXIB "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/en.lproj/MainMenu.xib"
+cCpResource "My First Gui/rb_main.rb" "build/Debug/My First Gui.app/Contents/Resources/rb_main.rb"
+cCpResource "My First Gui/AppDelegate.rb" "build/Debug/My First Gui.app/Contents/Resources/AppDelegate.rb"
+cTouch "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app"
+
+N/Developer/Library/Frameworks/MacRuby.framework/MacRuby
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E8C73BF00000000000000EE
+t1317827519
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E7AD7020000000000002470
+t1316673282
+s9328
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/AppDelegate.rb
+c000000004ED2E4BE000000000000013A
+t1322443966
+s314
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/My First Gui-Prefix.pch
+c000000004ED2E4BE000000000000009B
+t1322443966
+s155
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/en.lproj/InfoPlist.strings
+c000000004ED2E4BE000000000000002D
+t1322443966
+s45
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/en.lproj/MainMenu.xib
+c000000004ED2E4BE0000000000026C93
+t1322443966
+s158867
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/main.m
+c000000004ED2E4BE0000000000000122
+t1322443966
+s290
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/rb_main.rb
+c000000004ED2E4BE000000000000027D
+t1322443966
+s637
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Info.plist
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/MacOS/My First Gui
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/AppDelegate.rb
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/rb_main.rb
+t2
+s0
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/My First Gui.LinkFileList
+c000000004ED2E4C7000000000000008B
+t1322443975
+s139
+
+N/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch.pth
+t2
+s0
+
+NMy First Gui/My First Gui-Info.plist
+c000000004ED2E4BE00000000000003B5
+t1322443966
+s949
+
+CBuild AST from "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa66164471c83b441^1d5571471c83b441^---0#1#0#--18"Check dependencies36"25E4F251-0901-414A-963B-A78CC611BC13-
+
+CCompileC "build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/main.o" "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s344136782.437691
+e344136783.122391
+r1
+xCompileC
+xbuild/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/main.o
+x/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/main.m7028704e1c83b441^19541f4f1c83b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/csexton/src/macruby-so-hot-showoff/code/My%20First%20Gui/My%20First%20Gui/main.m0000000000000000^2577"CompileC "build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/main.o" "My First Gui/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-generated-files.hmap" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-own-target-headers.hmap" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-all-target-headers.hmap" -iquote "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-project-headers.hmap" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/include" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/DerivedSources/x86_64" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/DerivedSources" "-F/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug" -F/Developer/Library/Frameworks -include "/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch" -MMD -MT dependencies -MF "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/main.d" -c "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/main.m" -o "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/main.o"36"6BCD1936-5D0D-4723-912C-FEC195C70F30-
+
+CCompileXIB "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/en.lproj/MainMenu.xib"
+s344136785.442848
+e344136785.536795
+r1
+xCompileXIB
+x/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/en.lproj/MainMenu.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compiling /Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/en.lproj/MainMenu.xib946c71511c83b441^a96b89511c83b441^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/csexton/src/macruby-so-hot-showoff/code/My%20First%20Gui/My%20First%20Gui/en.lproj/MainMenu.xib0000000000000000^547"CompileXIB "My First Gui/en.lproj/MainMenu.xib"    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/en.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.7.sdk36"E76911DF-BB24-4CEA-9712-7C38D884BA30-
+
+CCopyStringsFile "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/en.lproj/InfoPlist.strings" "My First Gui/en.lproj/InfoPlist.strings"
+s344136785.441739
+e344136785.446901
+r1
+xCopyStringsFile
+x/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/en.lproj/InfoPlist.strings
+xMy First Gui/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy My First Gui/en.lproj/InfoPlist.strings1c2771511c83b441^eba872511c83b441^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/csexton/src/macruby-so-hot-showoff/code/My%20First%20Gui/My%20First%20Gui/en.lproj/InfoPlist.strings0000000000000000^458"CopyStringsFile "build/Debug/My First Gui.app/Contents/Resources/en.lproj/InfoPlist.strings" "My First Gui/en.lproj/InfoPlist.strings"    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources/en.lproj" -- "My First Gui/en.lproj/InfoPlist.strings"36"FF11DE33-D719-484C-B616-BC06F3816C1C-
+
+CCpResource "My First Gui/AppDelegate.rb" "build/Debug/My First Gui.app/Contents/Resources/AppDelegate.rb"
+s344136785.452567
+e344136785.455241
+r1
+xCpResource
+xMy First Gui/AppDelegate.rb
+xbuild/Debug/My First Gui.app/Contents/Resources/AppDelegate.rb
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/My First Gui.app/Contents/Resources/AppDelegate.rb6bf373511c83b441^3ba874511c83b441^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/csexton/src/macruby-so-hot-showoff/code/My%20First%20Gui/build/Debug/My%20First%20Gui.app/Contents/Resources/AppDelegate.rb00f4b405deffdf42^487"CpResource "My First Gui/AppDelegate.rb" "build/Debug/My First Gui.app/Contents/Resources/AppDelegate.rb"    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/AppDelegate.rb" "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources"36"10F79E00-8AC3-4010-A962-186D8E2E4600-
+
+CCpResource "My First Gui/rb_main.rb" "build/Debug/My First Gui.app/Contents/Resources/rb_main.rb"
+s344136785.448297
+e344136785.451206
+r1
+xCpResource
+xMy First Gui/rb_main.rb
+xbuild/Debug/My First Gui.app/Contents/Resources/rb_main.rb
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/My First Gui.app/Contents/Resources/rb_main.rbafd172511c83b441^e2cc73511c83b441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/csexton/src/macruby-so-hot-showoff/code/My%20First%20Gui/build/Debug/My%20First%20Gui.app/Contents/Resources/rb_main.rb00f4b405deffdf42^475"CpResource "My First Gui/rb_main.rb" "build/Debug/My First Gui.app/Contents/Resources/rb_main.rb"    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/rb_main.rb" "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Resources"36"D2256AB0-D4C5-4ECB-BA5E-20F4907D4AFD-
+
+CLd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/MacOS/My First Gui" normal x86_64
+s344136783.129334
+e344136785.433250
+r1
+xLd
+x/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/MacOS/My First Gui
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/MacOS/My First Gui5531214f1c83b441^8ae96e511c83b441^---0#0#0#--807"Ld "build/Debug/My First Gui.app/Contents/MacOS/My First Gui" normal x86_64    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk "-L/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug" "-F/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug" -F/Developer/Library/Frameworks -filelist "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/Objects-normal/x86_64/My First Gui.LinkFileList" -mmacosx-version-min=10.7 -framework Cocoa -framework MacRuby -o "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/MacOS/My First Gui"36"8EE6CDF0-196B-472B-BAD1-65183F9858BE-
+
+CProcessInfoPlistFile "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Info.plist" "My First Gui/My First Gui-Info.plist"
+s344136775.462995
+e344136775.473422
+r1
+xProcessInfoPlistFile
+x/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Info.plist
+xMy First Gui/My First Gui-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process My First Gui/My First Gui-Info.plist27a376471c83b441^bb6379471c83b441^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/csexton/src/macruby-so-hot-showoff/code/My%20First%20Gui/My%20First%20Gui/My%20First%20Gui-Info.plist0000000000000000^520"ProcessInfoPlistFile "build/Debug/My First Gui.app/Contents/Info.plist" "My First Gui/My First Gui-Info.plist"    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    builtin-infoPlistUtility "My First Gui/My First Gui-Info.plist" -genpkginfo "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app/Contents/Info.plist"36"C078EF17-48E1-4CDC-95D3-3408C86CAE4E-
+
+CProcessPCH "/Users/csexton/Library/Developer/Xcode/DerivedData/My_First_Gui-bebvlakrvgqdwdasjthwbirccizk/Index/PrecompiledHeaders/My First Gui-Prefix-bsyhgzqsriqpquabkhwsimrgxzdz_ast/My First Gui-Prefix.pch.pth" "My First Gui/My First Gui-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch.pth" "My First Gui/My First Gui-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s344136775.481359
+e344136782.431403
+r1
+xProcessPCH
+x/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch.pth
+xMy First Gui/My First Gui-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile My First Gui/My First Gui-Prefix.pch49647b471c83b441^506f6e4e1c83b441^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/csexton/src/macruby-so-hot-showoff/code/My%20First%20Gui/My%20First%20Gui/My%20First%20Gui-Prefix.pch0000000000000000^2596"ProcessPCH "/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch.pth" "My First Gui/My First Gui-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc-only -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-generated-files.hmap" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-own-target-headers.hmap" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-all-target-headers.hmap" -iquote "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/My First Gui-project-headers.hmap" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/include" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/DerivedSources/x86_64" "-I/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/My First Gui.build/Debug/My First Gui.build/DerivedSources" "-F/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug" -F/Developer/Library/Frameworks -c "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/My First Gui/My First Gui-Prefix.pch" -o "/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch.pth" -MMD -MT dependencies -MF "/var/folders/d5/_yms234n2t3bkt7c320_zdyw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/My First Gui-Prefix-agsyejanskyoqparrpdfbxpkicda/My First Gui-Prefix.pch.d"36"A7D7B629-FE63-4FA3-9C85-ADFA5AB62815-
+
+CTouch "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app"
+s344136785.548180
+e344136785.584415
+r1
+xTouch
+x/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.appae638c511c83b441^2fdc95511c83b441^---0#0#0#--219"Touch "build/Debug/My First Gui.app"    cd "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui"    /usr/bin/touch -c "/Users/csexton/src/macruby-so-hot-showoff/code/My First Gui/build/Debug/My First Gui.app"36"1B3EE201-8F30-4228-B9B8-69F2C5C5AA4C-
+
