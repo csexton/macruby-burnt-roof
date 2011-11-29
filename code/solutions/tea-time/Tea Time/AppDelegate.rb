@@ -15,7 +15,7 @@ class AppDelegate
       target:self,
       selector:'countDown:',
       userInfo:nil,
-      repeats:true
+      repeats:false
 
     self.countDown(nil)
   end
@@ -29,15 +29,15 @@ class AppDelegate
 
   def teaReady(theTimer)
     @countDownTimer.invalidate
-    @statusItem.setTitle "☕ fertig!"
+    @statusItem.setTitle "☕ ready!"
     NSApp.activateIgnoringOtherApps true
 
     NSAlert.alertWithMessageText(
-      'Tee ist fertig!',
+      'Tea is ready',
       defaultButton:nil,
       alternateButton:nil,
       otherButton:nil,
-      informativeTextWithFormat:'Tee ist fertig!'
+      informativeTextWithFormat:'Tea is ready!'
     ).runModal
     NSApp.terminate nil
   end
