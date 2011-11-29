@@ -1,3 +1,7 @@
+!SLIDE center image
+
+<img src="hotchocolate.jpg" class="center" style="posistion:relative; height:768px; width:1024px; margin-top:-32px; margin-left:-32px;">
+
 !SLIDE
 # MacRuby #
 Cocoa so hot it will burn the roof of your mouth
@@ -98,10 +102,17 @@ A few basics
 
 #Run Loop
 
+!SLIDE
+
 Callbacks / Delegation
+
+!SLIDE
 
 Events / User Input
 
+!SLIDE
+
 Xib Files
 
+!SLIDE
 Outlets
