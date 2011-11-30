@@ -6,23 +6,23 @@
 # MacRuby #
 Cocoa so hot it will burn the roof of your mouth
 
+!SLIDE bullets incremental
+
+## MacRuby: The Definitive Guide
+
+http://bit.ly/macruby-book
+
+* Buy this Book
+
 !SLIDE
 
-# MacRuby: The Definitive Guide
-
-## http://bit.ly/macruby-book
-
-Buy this Book
-
-!SLIDE
-
-# What is Cocoa?
+## What is Cocoa?
 
 !SLIDE bullets incremental
 
 # History
 
-Brad Cox and Tom Love created it in the early 80s at ITT.
+* Brad Cox and Tom Love created it in the early 80s at ITT.
 
 * Backwards Compatibility with C
 
@@ -53,17 +53,17 @@ Brad Cox and Tom Love created it in the early 80s at ITT.
 
 !SLIDE
 
-# Who cares? I only like ruby!
+## Who cares? I only like ruby!
 
 !SLIDE
 
-# Objective-C's language features made MacRuby possible
+## Objective-C's language features made MacRuby possible
 
 (dynamic, message based, runtime)
 
 !SLIDE
 
-If Objective-C is so cool, why not just use it?
+## If Objective-C is so cool, why not just use it?
 
 !SLIDE
 
@@ -82,11 +82,11 @@ If Objective-C is so cool, why not just use it?
 
 !SLIDE
 
-Well, you will have (want) to use it, at some point.
+## Well, you will have (want) to use it, at some point.
 
 !SLIDE
 
-But you can make this process way more fun.
+## But you can make this process way more fun.
 
 !SLIDE
 
@@ -96,23 +96,24 @@ _~Yukihiro Matsumoto_
 
 !SLIDE
 
-A few basics
+# A few basics
 
 !SLIDE
 
 #Run Loop
 
 !SLIDE
+# Callbacks / Delegation
 
-Callbacks / Delegation
+!SLIDE
+# Events / User Input
 
 !SLIDE
 
-Events / User Input
+# Xib Files
 
 !SLIDE
-
-Xib Files
+# Outlets
 
 !SLIDE
-Outlets
+<img src="adventuretime.png" class="center" style="posistion:relative; height:768px; width:1024px; margin-top:-32px; margin-left:-32px;">
